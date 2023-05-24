@@ -1,5 +1,7 @@
 # flac2alac_ffmpeg
-This is a simple script written with the assistance of AI in Python. 
+This is a simple script written with the assistance of AI in Python.
+
+**Please backup all files before executing any type of conversion script, I am not responsible for you losing your files**
 
 It bulk converts FLAC files into ALAC files for iPod and other media devices.
 

@@ -21,6 +21,7 @@ You will need to install Python & FFMPEG to your computer and ensure that both a
 ### Script in motion
 
 Use the `python3 flac2alac.py` command in terminal, you will be prompted to enter the path of the folder where your FLAC files reside. [^1]
+  
   <img width="602" alt="ss01" src="https://github.com/HH-Point/flac2alac_ffmpeg/assets/63919543/9e99b4be-32eb-43dd-98cf-6b10ab4c1bad">
 
 **script running**
